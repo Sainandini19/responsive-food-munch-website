@@ -1,0 +1,40 @@
+Build Own a Responsive Website:
+ 
+Build a responsive website that appears beautifully on the screen of any size. Developed a user-centric food tech website for small business owners using bootstrap fundamental concepts. Use tools and technologies such as HTML, CSS, Bootstrap, Amazon Web Services — S3, Cloudfront, Route 53.
+
+1.Bootstrap Grid System :-
+Bootstrap Grid System is a collection of reusable code snippets to create responsive layouts. of HTML ,CSS , JS ..etIt is made up of containers, rows, and columns. 
+It uses a 12 column system for layouting. We can create up to 12 columns across the page.c
+FMW build with the help of BGSystem , to use BGS need to add bootstrapCDN in hed ele .
+
+2.NAVBAR :--- 
+A Navbar is a navigation header that is placed at the top of the page . With Bootstrap a Navbar can extend or collapse, depending on the device size.HTML nav element is a container element similar to the HTML div element.
+
+3 . CSS Box properties :- Margin
+We can align HTML Block-level elements horizontally using CSS margin property.it also accepts auto keyword as a value (m-auto ml-auto mr-auto.)
+
+4.Banner section ,  wcu section ,explore menu section 
+5. Bootstrap Sizing Utilities :- Percentage
+You can use the Bootstrap class names to specify the width of an HTML element in percentage.(w-25,w-50w-75,w-100)
+6.HTML svg element is an HTML inline element. We can use it to add icons to our website.
+7.shadows to HTML elements, you can use the below Bootstrap class names. (shadow-none shadow-sm shadow shadow-lg)
+8 .Healthy Food, Delivery and Payment, Thanking Customers Sections 
+9.Bootstrap Flex Utilities:- Order (order-1, order-md-2, order-lg-3) 1 - 12 
+Bootstrap Order class names are used to change the visual order of the flex items that appear inside the Flex Container.
+10.  Bootstrap Display Utilities :- we can hide and show HTML elements responsively for each screen size with the Display utilities.
+We can hide HTML Elements using d-*-none class names, where *represents breakpoints (sm, md, lg, xl)
+For example, d-none, d-sm-none, d-md-none, etc.
+Based on the type of HTML element, we can use d-*-inline and d-*-block class names to show HTML element.
+For example, d-block, d-md-inline, d-lg-block, etc.
+11.Font Awesome Icons :-There are a limited number of Icon choices in Bootstrap icons. Since we don’t have the desired icons in Bootstrap Icons, we use Font Awesome Icons.To use the Font Awesome Icons, you need to add the below Font Awesome Icons Kit Code in the HTML head element.
+12 . Adding Links to the Sections :--
+Adding id to the section to which we want to navigate.
+Providing id as href Attribute value to the Nav Item.
+13.Bootstrap Position Utilities :-
+  By using position utilities we can fix the nav position at top or boottom of viewport
+ Fixed Top
+The bootstrap class name fixed-top positions an HTML element at the top of the viewport irrespective of the scrolling.
+Fixed Bottom
+The bootstrap class name fixed-bottom positions an HTML element at the bottom of the viewport irrespective of the scrolling.
+14.Bootstrap Components :- Modal
+15.footer section
